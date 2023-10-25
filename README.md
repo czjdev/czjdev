@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen Zhijie</h1>
-<h3 align="center">A Full-stack web developer from China</h3>
+<h3 align="center">A Full Stack Web Developer from China</h3>
 
 - 👨‍💻 All of my projects are available at [czjdev.com](czjdev.com)
 
